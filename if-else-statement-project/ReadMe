@@ -1,0 +1,6 @@
+If-Else Statement JS Project with propmt attribute.
+
+It calculates avg of mid-term and final exam results.
+
+If the result is > than 50 => successful!
+Or, if the is < than 50 => failure...
